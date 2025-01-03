@@ -4,12 +4,12 @@
             <p class="description">
                 Hi I'm Douglas.  I am currently a Computer Science student at Cal State Fullerton. 
                 I enjoy coding, learning new things, and having fun!
-                When I am not coding, I am probably cooking, trying out new cafes, 
+                When I am not coding, I am probably lifting weights, cooking, trying out new cafes, 
                 designing and sewing my own clothes, gyming, golfing, or playing badminton.
                 <!--gonna need to change when I graduate-->
             </p>
             <div class = "resume">
-                <a href="Douglas-5.pdf">Resume</a> <!--make icon-->
+                <a href="Douglas-6.pdf">Resume</a> <!--make icon-->
                 <img alt ="resume" src="/img/resumeIcon.png">
             </div>
     </div>

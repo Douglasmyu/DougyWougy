@@ -1,7 +1,8 @@
 
 <section class="container">
     <div class = "content">
-        <p>I like to cook, play golf, badminton.  Here is me with my hobbies!!</p>
+        <p>Here is me with my hobbies!!  I love cooking for other people.</p>
+        <img alt="golf" src = "/img/photo.png">
     </div>
     
 </section>
